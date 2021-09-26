@@ -21,8 +21,6 @@ Tecnologias empregadas:
 
 [**Azurite: emulando o Azure Storage via package npm [Vídeo]**](https://www.youtube.com/watch?v=TKUej0B_d40&t=812s)
 
-[**Azurite: emulando o Azure Storage via package npm [Vídeo]**](https://www.youtube.com/watch?v=TKUej0B_d40&t=812s)
-
 [**Habilitando o uso de Swagger em projetos .NET que dependam de HttpTrigger [Vídeo]**](https://www.youtube.com/watch?v=TKUej0B_d40&t=1557s)
 
 [**Automação de testes, build e deployment de Azure Functions com Azure DevOps [Vídeo]**](https://www.youtube.com/watch?v=TKUej0B_d40&t=4770s)
